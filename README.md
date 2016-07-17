@@ -10,3 +10,5 @@ git config --global user.name "Joa"
 再git commit -am "写你要上传文档的一个提示信息"
 git push origin master:master　//创建分支的映射
 git push 
+
+具体操作命令见http://www.csdn.net/article/2014-06-17/2820265-git
